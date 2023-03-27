@@ -1,16 +1,17 @@
-### Hi there 👋
+# Khauta Sofe Maliehe
 
-<!--
-**khauta/khauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Khauta Sofe Maliehe, a software engineer and cyber security enthusiast based in Maseru, Lesotho. I'm currently working as a lead engineer and project manager at Technomath, where I'm responsible for the development of the Marakeng App.
 
-Here are some ideas to get you started:
+Apart from my work at Technomath, I also do third-party consulting work and I'm available for freelance work. I'm passionate about making significant contributions to open-source projects, so feel free to reach out to me if you have any projects that you think I could contribute to.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+- For work regarding Marakeng App: <kjamaliehe@shop.marakeng.ls>
+- Personal and Freelance: <kjamaliehe@outlook.com>
+- GitHub: http://github.com/khauta/
+- Twitter: [@kjamaliehe](https://twitter.com/kjamaliehe)
+- Whatsapp & Telegram: +26657284264
+
+## About Me
+
+I believe in the value of our own individual uniqueness, and I strive to bring my unique perspective to every project that I work on. When I'm not coding, I enjoy cycling and taking morning walks to calm my monkey mind.
